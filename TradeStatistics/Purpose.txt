@@ -1,0 +1,1 @@
+To allow traders to quickly calculate the trade exposures, trade accuracy, trade frequency 
